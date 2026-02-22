@@ -2,6 +2,8 @@
 
 A beautiful, responsive React app for tracking your Costco spending and managing budgets by category.
 
+**🔗 [Live Demo](https://money-manager-ten-iota.vercel.app/)**
+
 ## Project Structure
 
 ```
@@ -86,4 +88,5 @@ Each component is self-contained and responsible for its own styling and logic:
 ## License
 
 MIT
+
 # money-pilot
