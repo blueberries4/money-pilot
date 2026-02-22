@@ -1,13 +1,13 @@
-# Costco Tracker
+# Money Pilot
 
-A beautiful, responsive React app for tracking your Costco spending and managing budgets by category.
+A beautiful, responsive React app for tracking your spending and managing budgets by category.
 
 **🔗 [Live Demo](https://money-manager-ten-iota.vercel.app/)**
 
 ## Project Structure
 
 ```
-costco-tracker/
+money-pilot/
 ├── public/
 │   └── index.html
 ├── src/
